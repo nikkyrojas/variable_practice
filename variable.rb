@@ -12,3 +12,7 @@ eggs_price = 1.50
 
 adult = true
 boy = false
+
+name = "Noemi"
+fav_food = "pizza"
+fav_vacay = "beach"
